@@ -115,6 +115,10 @@ body {
   background-color: var(--color-bg);
 }
 
+navbar {
+    background color: black;
+      
+
 /* Page structure */
 .wrapper {
   min-height: var(--wrapper-height);
@@ -183,5 +187,5 @@ h2 {
   transform: translateY(5px);
 }
 p {
-  color: black;
+  color:;
   }
