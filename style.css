@@ -116,7 +116,7 @@ body {
 }
 
 navbar {
-    background color: black;
+  background color: black;}
       
 
 /* Page structure */
@@ -187,5 +187,5 @@ h2 {
   transform: translateY(5px);
 }
 p {
-  color:;
+  color: white;
   }
